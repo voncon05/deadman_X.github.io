@@ -117,6 +117,16 @@ a:link {
     color:#fe964b;
 }
 
+a:visited {
+    text-decoration: none;
+    color:#FE964B;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
 
 .toppart {
     padding-left: 20px;
